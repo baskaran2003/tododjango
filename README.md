@@ -1,2 +1,0 @@
-# tododjango
-todo app
